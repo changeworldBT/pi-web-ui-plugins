@@ -1,0 +1,12 @@
+{
+  "id": "photon",
+  "name": "Photon iMessage",
+  "source": "changeworldBT/pi-web-photon/plugin",
+  "author": "changeworldBT",
+  "description": "Photon iMessage 通道：经本机 Photon sidecar（spectrum-ts gRPC 桥）在 Linux/macOS 上收发 iMessage，零公网 IP。机器人循环、输入动效、用户白名单、多轮会话隔离、/sessions 投票气泡切会话、斜杠命令与 AI photon 工具一应俱全。",
+  "descriptionEn": "Photon iMessage channel for pi-web-ui: send & receive iMessages on Linux/macOS via a local Photon sidecar (spectrum-ts gRPC bridge) with zero public IP. Bot loop, typing indicator, allowlist, per-sender session isolation, a native-poll session picker, slash commands and the AI photon tool included.",
+  "icon": "💬",
+  "iconSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z\"/></svg>",
+  "homepage": "https://github.com/changeworldBT/pi-web-photon",
+  "tags": ["plugin", "messaging", "imessage"]
+}
