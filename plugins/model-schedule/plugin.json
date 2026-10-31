@@ -1,0 +1,11 @@
+{
+	"id": "model-schedule",
+	"name": "模型调度",
+	"source": "changeworldBT/pi-web-ui-local-patches/plugins/model-schedule",
+	"author": "changeworldBT",
+	"description": "按时段配置主 bot 与子 bot 的模型/思考档位：可视化编辑时间窗（时区可搜索选择 + 本地时间预览）、可折叠窗口卡、当前生效窗口高亮、永不生效窗口告警与未保存修改保护，写入 ~/.pi/agent/model-schedule.jsonc，保存即生效。",
+	"descriptionEn": "Time-of-day model routing for main/sub bots: searchable timezone picker with live local time, collapsible window cards, current-window highlight, never-matching window warnings and unsaved-change protection, written to ~/.pi/agent/model-schedule.jsonc.",
+	"icon": "⏱️",
+	"homepage": "https://github.com/changeworldBT/pi-web-ui-local-patches/tree/main/plugins/model-schedule",
+	"tags": ["tools", "view", "settings"]
+}
